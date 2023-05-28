@@ -1,2 +1,2 @@
-# aakgn.girhub.io
+# aakgn.github.io
 Personal blog.
