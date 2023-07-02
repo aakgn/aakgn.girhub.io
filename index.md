@@ -16,8 +16,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I was looking for proper open-source C++ (Cause I like to use free tools :D) IDEs for the Windows platform. I tried some of them, which are listed in below. Then, I wanted to share my ideas about them. 
 ## Visual Studio Code 
 ![Visual Studio Code](./Images/IDELogos/visualstudiocodelogo.png)
+
 I used Visual Studio code before for C++, this IDE has modern features although it's free. If you like to use fancy IDEs like Visual Studio or IntelliJ IDEA, you will like this IDE. However, Visual Studio Code will not be a good option for old PCs.
 ## Eclipse IDE for C/C++ Developers
+Eclipse IDE has modern features like Visual Studio Code. This IDE does not require complicated installation. 
 ## Code:: Blocks
 ## Dev C++
 ## CodeLite
